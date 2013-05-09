@@ -1,0 +1,14 @@
+
+#h {
+    padding: 10px;
+    text-align: center;
+}
+
+#h h1 {
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+#h h2 {
+    font-style: italic;
+}
